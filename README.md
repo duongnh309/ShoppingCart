@@ -1,4 +1,4 @@
-# Welcome to Math Untility repository
+# Welcome to Shopping Cart repository
 This repository contains a Java project of shopping website. 
 You can do somethings as: add new product, buy product.
 
@@ -13,4 +13,4 @@ You can do somethings as: add new product, buy product.
 
 
 
-#### © 2020 by Nguyen Huu Duong | FPT HCM
+#### © 2021 by Nguyen Huu Duong | FPT HCM
